@@ -5,7 +5,7 @@ DO NOT FORK THIS REPO
 Clone it and work on it locally and never push commits anywhere public.
 
 
-Due date
+Due Date
 -----
 Apr-16 11:59pm Pacific Time. 
 
@@ -28,7 +28,7 @@ First, make sure you have Python 3.\* and the latest pip >= 20.\* (Check the `No
  
 You can run `conda deactivate` to deactivate the environment. The next time you want to work on the assignment, type `conda activate cse150b` first to use the exact same environment with PyGame installed.
 
-Task To Complete
+Tasks To Complete
 ----
 The task is to find paths from the start (yellow node) to the goal (orange node). Once you load up the program (You'll see how in the `Usage` section below) and press `enter` you will see what that means. In class I briefly explained the meaning of the different colors of the nodes (green is "grass" that incurs high cost, blue is "puddle" that the agent can not pass through). Check slides, lecture recording, and read the code to figure things out. If you are stuck, feel free to discuss on slack or schedule office hours.
 
