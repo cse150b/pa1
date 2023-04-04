@@ -5,6 +5,18 @@ DO NOT FORK THIS REPO
 Clone it and work on it locally and never push commits anywhere public.
 
 
+Due date
+-----
+Apr-16 11:59pm Pacific Time. 
+
+
+Submission
+----
+You only need to submit the `ai.py` file on Gradescope for grading.
+
+If you have changed other files, make sure that your implementation works properly with the original, unchanged given files (`main.py`, `game.py`, `test.py`), which we will use for grading.
+
+
 Setting Up
 ----
 First, make sure you have Python 3.\* and the latest pip >= 20.\* (Check the `Notes & FAQ` section below if you're having trouble with this). Then, here is the preferred way to set up (if you have another way, feel free to do it):
@@ -47,16 +59,6 @@ The `tests` file contains a few test maps. If you want to load in the maps as te
 
 You can also do `python main.py -t` which autogrades the algorithms with respect to the correct optimal costs in the seven maps above.
 
-Submission
-----
-You only need to submit the `ai.py` file on Gradescope for grading.
-
-If you have changed other files, make sure that your implementation works properly with the original, unchanged given files (`main.py`, `game.py`, `test.py`), which we will use for grading.
-
-
-Due date
------
-Apr-16 11:59pm Pacific Time. 
 
 Grading
 -----
